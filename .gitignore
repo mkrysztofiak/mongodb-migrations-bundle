@@ -7,3 +7,5 @@ vendor/
 composer.lock
 .php_cs.cache
 coverage.clover
+.idea
+.git
